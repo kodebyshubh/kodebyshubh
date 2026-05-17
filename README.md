@@ -3,7 +3,7 @@
 # 🚀 Featured Projects:
 
 ### 1. [Saarthi-MedAI](https://github.com/kodebyshubh/Saarthi-MedAI)
-🩺 Your AI-powered doctor on call — voice-to-triage in seconds, available 24/7.
+`🩺 Your AI-powered doctor on call — voice-to-triage in seconds, available 24/7.`
 
 ### 2. [Floatchat](https://github.com/kodebyshubh/Floatchat)
 `🌊 Ask the ocean anything — NLP meets deep-sea data for multilingual oceanographic insights.`
